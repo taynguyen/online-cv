@@ -1,23 +1,14 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: 
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
+    title: Kobiton
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Mobile cloud farms for automation and manual test."
   - project:
-    title: Tempo
+    title: Forbes Travel Guide
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Develop mobile application on both Android/ iOS that could record and analyze voice by using client audio Library."
   - project:
-    title: Atom
+    title: QAutomate
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "qAutomate is an Automation web testing framework. User can develop test scripts, execute jobs, and view reports by using this framework"

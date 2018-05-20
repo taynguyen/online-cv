@@ -14,20 +14,20 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+name: Tay Nguyen
+tagline: Senior Software Engineer
+pic: taynguyen_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: nguyenvanletay@gmail.com
+phone: 0168 565 3590
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
+linkedin: nguyenvanletay
+github: taynguyen
 twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
