@@ -111,51 +111,6 @@ projects:
 #       - title: A syntax directed compiler for Algol 60
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-studies:
-    - degree: BSc in IT
-      university: University of Science - Ho Chi Minh city
-      time: 2009 - 2013
-      details: ""
-
-
-
-projects:
-    title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-    projects:
-      - project:
-        title: Kobiton
-        link: "kobiton.com/"
-        tagline: "Mobile cloud farms for automation and manual test."
-      - project:
-        title: Forbes Travel Guide
-        link: "#"
-        tagline: "Develop mobile application on both Android/ iOS that could record and analyze voice by using client audio Library."
-      - project:
-        title: QAutomate
-        link: "#"
-        tagline: "qAutomate is an Automation web testing framework. User can develop test scripts, execute jobs, and view reports by using this framework"
-
-
-# publications:
-#     title: Publications
-#     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-#     publications:
-#       - paper:
-#         title: The Art of Computer Programming
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-#       - paper:
-#         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#       - paper:
-#         title: A syntax directed compiler for Algol 60
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
