@@ -41,13 +41,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
+    title: About Me
+     summary: |
+       Responsibility, love challenges, open, good team working. 
+       "Be the person you want to work with."
 
 education:
     - degree: MSc in Computer Science
@@ -89,7 +86,8 @@ projects:
 
       - title: qAutomate
         link: "#"
-        tagline: "qAutomate is an Automation web testing framework. User can develop test scripts, execute jobs, and view reports by using this framework"
+        tagline: "qAutomate (Java) is an Automation web testing framework. User can develop test scripts, 
+        execute jobs, and view reports by using this framework."
 
 # publications:
 #     title: Publications
