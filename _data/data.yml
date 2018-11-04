@@ -42,14 +42,12 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
 
 education:
     - degree: MSc in Computer Science
@@ -59,7 +57,7 @@ education:
 
 experiences:
     - role: Senior Software Engineer
-      time: 2016 - Present
+      time: 2017 - Present
       company: Kobiton Inc, HCMC
       details: |
         Kobiton is a mobile testing experience platform that accelerates 
@@ -67,22 +65,23 @@ experiences:
         testing on real devices, in the cloud or on-premise.
 
     - role: Senior Software Engineer
-      time: 2013 - 2016
+      time: 2013 - 2017
       company: KMS Technology, HCMC
-      details: |
-        Outsourcing company in Ho Chi Minh city.
+#       details: |
+#         Outsourcing company in Ho Chi Minh city.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Kobiton
         link: "https://www.kobiton.com"
-        tagline: "Mobile cloud farms for automation and manual test."
+        tagline: "Kobiton system include 3 main components: Desktop app(electron), back-end(node-js) and front-end(React, Redux). 
+        Responsibility for maintaining system and developing new features."
 
       - title: Forbes Travel Guide
         link: "#"
@@ -123,13 +122,13 @@ skills:
         level: 90%
 
       - name: Android, iOS
-        level: 80%
+        level: 85%
 
       - name: HTML5 & CSS
-        level: 80%
+        level: 85%
 
       - name: .Net
-        level: 70%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
