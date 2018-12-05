@@ -90,7 +90,8 @@ projects:
       - title: Forbes Travel Guide
         link: "#"
         tagline: "Develop mobile application on both Android/iOS that could record and analyze voice by using client audio Library. 
-        We use"
+        We implemented the app by using natives Android and iOS (Swift 3) instead of cross-platform framework because it was more easy 
+        to maintain and the comunity was very strong, and it would help us not to face headace cross-platform bug."
 
       - title: qAutomate
         link: "#"
