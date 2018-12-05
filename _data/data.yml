@@ -83,16 +83,20 @@ projects:
       - title: Kobiton
         link: "https://www.kobiton.com"
         tagline: "Kobiton system include 3 main components: Desktop app(electron), back-end(node-js) and front-end(React, Redux). 
-        Responsibility for maintaining system and developing new features."
+        Responsibility for maintaining system and developing new features. I worked as a full-stack developer at Kobiton, I built a 
+        automation framework for QA to help them scripting automation test for Kobiton system easier and more consistent. After that, I
+        took reponsibility to implement new features for Kobiton in both front-end (React), back-end (Nodejs) and desktop app (Electron)."
 
       - title: Forbes Travel Guide
         link: "#"
-        tagline: "Develop mobile application on both Android/ iOS that could record and analyze voice by using client audio Library."
+        tagline: "Develop mobile application on both Android/iOS that could record and analyze voice by using client audio Library. 
+        We use"
 
       - title: qAutomate
         link: "#"
-        tagline: "qAutomate (Java) is an Automation web testing framework. User can develop test scripts, 
-        execute jobs, and view reports by using this framework."
+        tagline: "This project is a Java project, which adds advanced features to an existing Automation web testing framework. 
+        The goal of these advanced features is to balance workloads when executing test script on multiple machines and add 
+        BrowserStack (a commercial remote web driver provider) environment to execute test scripts."
 
 # publications:
 #     title: Publications
