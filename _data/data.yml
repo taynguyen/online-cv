@@ -138,8 +138,8 @@ skills:
       - name: Javascript, ES6
         level: 98%
      
-      - name: go
-      - level: 90%
+      - name: Go lang
+        level: 90%
 
       - name: Java
         level: 90%
