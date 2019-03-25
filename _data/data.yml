@@ -59,7 +59,13 @@ education:
 
 experiences:
     - role: Senior Software Engineer
-      time: 2017 - Present
+      time: 2019 - Present
+      company: Dwarves  Foundation, HCMC
+      details: |
+        A consultant company focus on go-lang.
+        
+    - role: Senior Software Engineer
+      time: 2017 - 2018
       company: Kobiton Inc, HCMC
       details: |
         Kobiton is a mobile testing experience platform that accelerates 
@@ -80,6 +86,12 @@ projects:
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
+     - title: Attrace
+        link: "https://www.attrace.com/"
+        tagline: "Decentralised affiliate marketing platform using blockchain to avoid the fraud, reduce the cost, speeding the transaction.
+        Responsibility for building a tracing system for a decentralized application, collect metrics data at real time to determine system
+        health and detect the issue a soon as possible."
+        
       - title: Kobiton
         link: "https://www.kobiton.com"
         tagline: "Kobiton system include 3 main components: Desktop app(electron), back-end(node-js) and front-end(React, Redux). 
@@ -125,6 +137,9 @@ skills:
     toolset:
       - name: Javascript, ES6
         level: 98%
+     
+      - name: go
+      - level: 90%
 
       - name: Java
         level: 90%
