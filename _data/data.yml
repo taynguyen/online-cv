@@ -86,11 +86,11 @@ projects:
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-     - title: Attrace
-       link: "https://www.attrace.com"
-       tagline: "Decentralised affiliate marketing platform using blockchain to avoid the fraud, reduce the cost, speeding the transaction.
-       Responsibility for building a tracing system for a decentralized application, collect metrics data at real time to determine system
-       health and detect the issue a soon as possible."
+      - title: Attrace
+        link: "https://www.attrace.com"
+        tagline: "Decentralised affiliate marketing platform using blockchain to avoid the fraud, reduce the cost, speeding the transaction.
+        Responsibility for building a tracing system for a decentralized application, collect metrics data at real time to determine system
+        health and detect the issue a soon as possible."
         
       - title: Kobiton
         link: "https://www.kobiton.com"
