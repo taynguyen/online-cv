@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tay Nguyen
-    tagline: Full Stack Developer
+    tagline: Developer
     avatar: taynguyen_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -90,7 +90,8 @@ projects:
         link: "https://www.attrace.com"
         tagline: "Decentralised affiliate marketing platform using blockchain to avoid the fraud, reduce the cost, speeding the transaction.
         Responsibility for building a tracing system for a decentralized application, collect metrics data at real time to determine system
-        health and detect the issue a soon as possible."
+        health and detect the issue a soon as possible. Building custom contract runner for golang contract by making a custom runner for web 
+        assembly. Beside that, setting up a kubernetes system on AWS to hosts the client account nodes."
         
       - title: Kobiton
         link: "https://www.kobiton.com"
@@ -135,11 +136,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript, ES6
-        level: 98%
-     
       - name: Go lang
-        level: 90%
+        level: 95%
+     
+      - name: Javascript, ES6
+        level: 93%
 
       - name: Java
         level: 90%
